@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:035844_0000_1006E8D24E866240"/>
-            <pb facs="tcp:035844_0001_1006E88C311BABA8" rendition="simple:additions"/>
+            <pb facs="unknown:035844_0000_1006E8D24E866240"/>
+            <pb facs="unknown:035844_0001_1006E88C311BABA8"
+                rendition="simple:additions"/>
             <p>THE VIRTUES OF SOCIETY. A TALE, FOUNDED ON FACT.</p>
             <p>By the Author of The Virtues of Nature.</p>
             <q>
@@ -127,7 +128,8 @@
             <p>Boston. Printed by MANNING &amp; LORING, for the AUTHOR. 1799.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:035844_0002_1006E88F50BBFF20" rendition="simple:additions"/>
+            <pb facs="unknown:035844_0002_1006E88F50BBFF20"
+                rendition="simple:additions"/>
             <head>TO MRS. <hi>ADAMS.</hi>
             </head>
             <opener>
@@ -142,7 +144,7 @@
             </closer>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:035844_0003_1006E890EB715680"/>
+            <pb facs="unknown:035844_0003_1006E890EB715680"/>
             <head>Advertiſement.</head>
             <p>IF in a former publication the Author of theſe pages has attempted to portray the ſublime Virtues of Nature—with more ſolicitude, though with leſs encour<g ref="char:EOLhyphen"/>agement, ſhe ventures on the preſent occaſion to ſup<g ref="char:EOLhyphen"/>port, by a brilliant example, that the higher grades of civilized Society are no leſs productive of the pre-eminent qualities of fidelity and magnanimity, than the unſpoiled and uncultivated communities of the foreſt.</p>
             <p>The ſubject, founded upon a pathetic occurrence of the American Revolution, is principally ſelected from a little book, containing letters of General Burgoyne: deeply affected by the intereſting recital, the Author has not de<g ref="char:EOLhyphen"/>ſpaired of inſpiring the ſame ſympathy in others; and, under that impreſſion, again preſumes to appear before the public tribunal.</p>
@@ -151,7 +153,8 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:035844_0004_1006E89783511730" rendition="simple:additions"/>
+            <pb facs="unknown:035844_0004_1006E89783511730"
+                rendition="simple:additions"/>
             <head>THE VIRTUES OF SOCIETY.</head>
             <lg>
                <l>LET the proud Bard of ancient virtue tell,</l>
@@ -170,7 +173,7 @@
                <l>If to the doubting Muſe the fates ordain,</l>
                <l>That diſtant realms ſhall heed her timid ſtrain,</l>
                <l>
-                  <pb n="6" facs="tcp:035844_0005_1006E89ADA54C8A0"/>The matchleſs theme will greet a nation's ear,</l>
+                  <pb n="6" facs="unknown:035844_0005_1006E89ADA54C8A0"/>The matchleſs theme will greet a nation's ear,</l>
                <l>And call from beauty's eye the baſhful tear.</l>
             </lg>
             <lg>
@@ -193,7 +196,7 @@
                <l>While to her tutor'd rhetoric was given</l>
                <l>To point the ſtars, that gem the brow of heaven,</l>
                <l>
-                  <pb n="7" facs="tcp:035844_0006_1006E8A1886A30A8"/>The plant's quick growth, the mineral's ſlow decay,</l>
+                  <pb n="7" facs="unknown:035844_0006_1006E8A1886A30A8"/>The plant's quick growth, the mineral's ſlow decay,</l>
                <l>The electric torrent's undulating way,</l>
                <l>Or round the pictured orb inſtructive trace</l>
                <l>Each varying zone, that tints the changeful face;</l>
@@ -217,7 +220,7 @@
                <l>While many a peer, and many a beauteous dame,</l>
                <l>Led by the court, in bright proceſſion came,</l>
                <l>
-                  <pb n="8" facs="tcp:035844_0007_1006E8A62BC80DB8"/>
+                  <pb n="8" facs="unknown:035844_0007_1006E8A62BC80DB8"/>
                   <hi>Harriet</hi> alone unrivall'd charms diſplays,</l>
                <l>The boaſt of paſſion, and the theme of praiſe;</l>
                <l>But chiefly his, who, foremoſt of the train,</l>
@@ -243,7 +246,7 @@
                <l>Quits his clear heaven abroad, his free command,</l>
                <l>For the ſoft ſhelter, and the feeding hand,</l>
                <l>
-                  <pb n="9" facs="tcp:035844_0008_1006E8A957E3EFB0"/>Forgets the range, that roving youth required,</l>
+                  <pb n="9" facs="unknown:035844_0008_1006E8A957E3EFB0"/>Forgets the range, that roving youth required,</l>
                <l>And all the charms his changeful heart admired,</l>
                <l>On the ſmooth perch to wake the matin ſtrain,</l>
                <l>Pleaſed with his ſateleſs feaſt, aad ſilken chain.</l>
@@ -266,7 +269,7 @@
                <l>Of peaceful <hi>Albion</hi>'s bliſs-encircled iſle,</l>
                <l>Where the arts flouriſh, and the pleaſures ſmile.</l>
                <l>
-                  <pb n="10" facs="tcp:035844_0009_1006E8AC778DF838"/>The enamour'd fair each ſocial boon diſdains,</l>
+                  <pb n="10" facs="unknown:035844_0009_1006E8AC778DF838"/>The enamour'd fair each ſocial boon diſdains,</l>
                <l>Give me, ſhe cries, the thunder of the plains,</l>
                <l>Wide waſting famine, danger's worſt alarms,</l>
                <l>But give the ſhelter of my <hi>Ackland</hi>'s arms:</l>
@@ -289,7 +292,7 @@
                <l>Deluſive ſcenes attract the raptured eye,</l>
                <l>Now with the waves the flocks and foreſts fly,</l>
                <l>
-                  <pb n="11" facs="tcp:035844_0010_1006E8B12E283150"/>Here the gay floweret lends its ruddy hue,</l>
+                  <pb n="11" facs="unknown:035844_0010_1006E8B12E283150"/>Here the gay floweret lends its ruddy hue,</l>
                <l>And there the heavenly cryſtal ſhines with blue,</l>
                <l>But when ſome flitting wing the ſurface ſweeps,</l>
                <l>Or ſome low cloud in gathering eddies weeps,</l>
@@ -312,7 +315,7 @@
                <l>Beneath this clime the ſtation'd year reſigns</l>
                <l>Her varying courſe, and breaks her gradual lines,</l>
                <l>
-                  <pb n="12" facs="tcp:035844_0011_1006E8B7A54B4590"/>The <hi>balmy ſeaſon</hi> ſhuns the cloſing ſhore,</l>
+                  <pb n="12" facs="unknown:035844_0011_1006E8B7A54B4590"/>The <hi>balmy ſeaſon</hi> ſhuns the cloſing ſhore,</l>
                <l>And ſummer graſps at autumn's genial ſtore,</l>
                <l>No playful breeze, no mildly temper'd beam,</l>
                <l>But fervid heat, or nature's cold extreme,</l>
@@ -337,7 +340,7 @@
                <l>Hither, while Autumn veils his ſhowery ſtar,</l>
                <l>The gentle <hi>Harriet</hi> braves the breaking war,</l>
                <l>
-                  <pb n="13" facs="tcp:035844_0012_1006E8BAF2FE17A8"/>While all thoſe graces, that with ſecret ſway</l>
+                  <pb n="13" facs="unknown:035844_0012_1006E8BAF2FE17A8"/>While all thoſe graces, that with ſecret ſway</l>
                <l>Compel the ſenſes, bid the ſoul obey,</l>
                <l>From the fine features flow with ſpeaking ſmile,</l>
                <l>In converſe ſweet the gliding hours beguile,</l>
@@ -361,7 +364,7 @@
                <l>On her ſtruck ſenſe a burſt of brightneſs flows,<hi rend="sup">e</hi>
                </l>
                <l>
-                  <pb n="14" facs="tcp:035844_0013_1006E8BE1D6519C8"/>Thick curling clouds of ſmoke the ſcene invade,</l>
+                  <pb n="14" facs="unknown:035844_0013_1006E8BE1D6519C8"/>Thick curling clouds of ſmoke the ſcene invade,</l>
                <l>Impetuous flames ruſh through the noxious ſhade,</l>
                <l>Loud, and more loud, the ſhouts of danger riſe,</l>
                <l>And, whirl'd in waves, the crackling current flies,</l>
@@ -384,7 +387,7 @@
                <l>Sees in his glance heroic fervors roll,</l>
                <l>And hears the ſpeaking ardor of his ſoul,</l>
                <l>
-                  <pb n="15" facs="tcp:035844_0014_1006E8C50078F0F0"/>The trembling <hi>Harriet</hi> veils her penſive eyes,</l>
+                  <pb n="15" facs="unknown:035844_0014_1006E8C50078F0F0"/>The trembling <hi>Harriet</hi> veils her penſive eyes,</l>
                <l>Nor melts his firmneſs with a lover's ſighs;</l>
                <l>But when adorn'd with every martial grace,</l>
                <l>The loyal huſband quits the long embrace—</l>
@@ -407,7 +410,7 @@
                <l>And on his breadth of boſom deigns to bear</l>
                <l>The flaſhing cannon, and the plunging ſpear;</l>
                <l>
-                  <pb n="16" facs="tcp:035844_0015_1006E8CA40A1C610"/>Then, crown'd with every charm of youthful grace,</l>
+                  <pb n="16" facs="unknown:035844_0015_1006E8CA40A1C610"/>Then, crown'd with every charm of youthful grace,</l>
                <l>Majeſtic <hi>Ackland</hi> joins the vaunted race,</l>
                <l>Whoſe helmed brows, and matchleſs valor, claim</l>
                <l>The pride and bulwark of the britiſh name—</l>
@@ -432,7 +435,7 @@
                <l>To gallant GATES, in war ſerenely brave,</l>
                <l>The tide of fortune turns its refluent wave;</l>
                <l>
-                  <pb n="17" facs="tcp:035844_0016_1006E8CD6967DA80"/>Forced by his arm, the bold invaders yield</l>
+                  <pb n="17" facs="unknown:035844_0016_1006E8CD6967DA80"/>Forced by his arm, the bold invaders yield</l>
                <l>The prize and glory of the well fought field;</l>
                <l>Bleeding and loſt the captured <hi>Ackland</hi> lies,</l>
                <l>While leaden ſlumbers ſeal his <hi>Frazier</hi>'s eyes;</l>
@@ -458,7 +461,7 @@
                <l>In giant form the growing terror flies,</l>
                <l>Where, torn by doubts, the hapleſs <hi>Harriet</hi> lies,</l>
                <l>
-                  <pb n="18" facs="tcp:035844_0017_1006E8D0842B0058"/>Her buſy train the dreams of rumor ſpread,</l>
+                  <pb n="18" facs="unknown:035844_0017_1006E8D0842B0058"/>Her buſy train the dreams of rumor ſpread,</l>
                <l>And fill the field with legions of the dead,</l>
                <l>Bear to her heart, unfriended and alone,</l>
                <l>The bleeding <hi>Ackland</hi>'s ſupplicative groan,</l>
@@ -481,7 +484,7 @@
                <l>Through the wet path her reſtleſs footſteps roam,</l>
                <l>To where <hi>the leader</hi> ſpread his ſpacious dome,</l>
                <l>
-                  <pb n="19" facs="tcp:035844_0018_10069140610961D8"/>Low at his feet ſhe pours the deſperate prayer—</l>
+                  <pb n="19" facs="unknown:035844_0018_10069140610961D8"/>Low at his feet ſhe pours the deſperate prayer—</l>
                <l>Give my loſt huſband to my ſoothing care,</l>
                <l>Give me, in yonder ſolitary cave,</l>
                <l>With duteous love, his burning wounds to lave,</l>
@@ -504,7 +507,7 @@
                <l>Kind chance may turn the level'd ball aſide,</l>
                <l>And the light bark wear out the heavy tide,</l>
                <l>
-                  <pb n="20" facs="tcp:035844_0019_1006E8DA99EB9EC0"/>Nor ſhall weak fears my venturous ſtep reſtrain,</l>
+                  <pb n="20" facs="unknown:035844_0019_1006E8DA99EB9EC0"/>Nor ſhall weak fears my venturous ſtep reſtrain,</l>
                <l>The frowns of terror, nor the threats of pain,</l>
                <l>Each hour ſome viſionary ill ſupplies,</l>
                <l>
@@ -528,7 +531,7 @@
                <l>The chaſte <hi>Alceſte,</hi> nymph divinely form'd,</l>
                <l>By kindling charms, and mutual paſſion warm'd,</l>
                <l>
-                  <pb n="21" facs="tcp:035844_0020_1006E8DDC2BF81A8"/>From his hard fate her dearer lord to ſave,</l>
+                  <pb n="21" facs="unknown:035844_0020_1006E8DDC2BF81A8"/>From his hard fate her dearer lord to ſave,</l>
                <l>Reſign'd her glowing graces to the grave—</l>
                <l>HARRIET as brave, as bleſt, as chaſtely kind,</l>
                <l>With equal truth devotes her doting mind—</l>
@@ -551,7 +554,7 @@
                <l>She hears unchanged, yet feels one hope remain,—</l>
                <l>If the brave ſons of ocean's rough domain</l>
                <l>
-                  <pb n="22" facs="tcp:035844_0021_1006E8E0E090F5B8"/>Will with kind ear, and pitying ſtep repair,</l>
+                  <pb n="22" facs="unknown:035844_0021_1006E8E0E090F5B8"/>Will with kind ear, and pitying ſtep repair,</l>
                <l>And in her view <hi>reject</hi> her ardent prayer.—</l>
                <l>Quick to her wiſh approach the careleſs band,</l>
                <l>Meet her ſoft glance, and hear her fond demand:</l>
@@ -575,7 +578,7 @@
                <l>His pallid hand he waved with look of care,</l>
                <l>And thus addreſs'd the animated fair—</l>
                <l>
-                  <pb n="23" facs="tcp:035844_0022_1006E8E781B9F888"/>—Thy peerleſs faith the God of truth approves,</l>
+                  <pb n="23" facs="unknown:035844_0022_1006E8E781B9F888"/>—Thy peerleſs faith the God of truth approves,</l>
                <l>And at thy ſide the power of ſafety moves,</l>
                <l>The viewleſs angels will thy paſſage guard,</l>
                <l>Support ſuch virtue, and ſuch love reward.</l>
@@ -598,7 +601,7 @@
                <l>When, by the tones of ſuppliant beauty won,</l>
                <l>The vaunted warrior flew to be undone,</l>
                <l>
-                  <pb n="24" facs="tcp:035844_0023_1006E8EA974A9DB0"/>Braved every danger, baffled every fear,</l>
+                  <pb n="24" facs="unknown:035844_0023_1006E8EA974A9DB0"/>Braved every danger, baffled every fear,</l>
                <l>Drawn by the melting magic of a tear—</l>
                <l>No wanton hopes theſe ruder champions move,</l>
                <l>No lawleſs beauty bears the torch of love.</l>
@@ -622,7 +625,7 @@
                <l>Aghaſt, and trembling on the rocky coaſt,</l>
                <l>By the ſad view in breathleſs terror loſt,</l>
                <l>
-                  <pb n="25" facs="tcp:035844_0024_1006E8EC350D7F48"/>Down her cold cheek forbidden ſorrows roll,</l>
+                  <pb n="25" facs="unknown:035844_0024_1006E8EC350D7F48"/>Down her cold cheek forbidden ſorrows roll,</l>
                <l>And all <hi>the woman</hi> waken'd in her ſoul;</l>
                <l>Till LOVE, more powerful, than the ruling ſtorm,</l>
                <l>Through the dark tumult glanced his glowing form,</l>
@@ -647,7 +650,7 @@
                <l>Drunk with the gale, the ſtaggering bark is toſt</l>
                <l>On every wave, that breaks the ſhelving coaſt,</l>
                <l>
-                  <pb n="26" facs="tcp:035844_0025_1006E8F2B2F570D0"/>Deep on its bulk the heavy rain deſcends,</l>
+                  <pb n="26" facs="unknown:035844_0025_1006E8F2B2F570D0"/>Deep on its bulk the heavy rain deſcends,</l>
                <l>On every ſide the tottering concave bends,</l>
                <l>Yet Heaven, regardful of the prize it bore,</l>
                <l>Guides the weak fabric to the diſtant ſhore,</l>
@@ -670,7 +673,7 @@
                <l>Spirits? or men more damn'd, in night's attire?</l>
                <l>Say—or this tube ſhall ſpeak in words of fire.—</l>
                <l>
-                  <pb n="27" facs="tcp:035844_0026_1006E8F62AEC8A68"/>Borne on the blaſt, the leſſening accents fly,</l>
+                  <pb n="27" facs="unknown:035844_0026_1006E8F62AEC8A68"/>Borne on the blaſt, the leſſening accents fly,</l>
                <l>And on the drowning waves in muttering murmurs die.—</l>
                <l>Of all unconſcious—on the hoſtile ground</l>
                <l>He reſts—expectant of the anſwering ſound;</l>
@@ -693,7 +696,7 @@
                <l>While the ſoft ſoothing orator reſign'd,</l>
                <l>To warm perſuaſion, all her powerful mind;</l>
                <l>
-                  <pb n="28" facs="tcp:035844_0027_1006E8FAE1659750"/>In vain—ſtern duty, with unyielding ſway,</l>
+                  <pb n="28" facs="unknown:035844_0027_1006E8FAE1659750"/>In vain—ſtern duty, with unyielding ſway,</l>
                <l>Wafts the ſweet muſic of her lips away;</l>
                <l>The threatening guard her lifted ſtep reſtrains,</l>
                <l>And blocks her paſſage to the hoſtile plains;</l>
@@ -717,7 +720,7 @@
                <l>With diſtant awe, and ſoft protective power,</l>
                <l>To lead the ſuppliant to the tented bower—</l>
                <l>
-                  <pb n="29" facs="tcp:035844_0028_1006E8FDF3178B48"/>When with warm praiſes, and attentions kind,</l>
+                  <pb n="29" facs="unknown:035844_0028_1006E8FDF3178B48"/>When with warm praiſes, and attentions kind,</l>
                <l>The graceful paſtor cheer'd her ſuffering mind—</l>
                <l>—Heaven on thy face its ſacred ſtamp diſplays,</l>
                <l>Speaks from thy lips, and every heart obeys,</l>
@@ -741,7 +744,7 @@
                <l>With anxious voice, and quick-inquiring eyes,</l>
                <l>The pitying train in gather'd circles riſe,</l>
                <l>
-                  <pb n="30" facs="tcp:035844_0029_1006E90112BEFB10"/>The cordial goblet to her lips impart,</l>
+                  <pb n="30" facs="unknown:035844_0029_1006E90112BEFB10"/>The cordial goblet to her lips impart,</l>
                <l>And claim ſome votary of the healing art;</l>
                <l>But ſhe, regardleſs of all other grief,</l>
                <l>Turn'd her ſlow glances on the gallant chief—</l>
@@ -764,7 +767,7 @@
                <l>Grateful ſhe hears, with penſive ſmile replies,</l>
                <l>While doubts, and fears, and hopes, alternate riſe,</l>
                <l>
-                  <pb n="31" facs="tcp:035844_0030_1006E907CD50C0A0"/>Her ſoft, imploring eye, with upward gaze,</l>
+                  <pb n="31" facs="unknown:035844_0030_1006E907CD50C0A0"/>Her ſoft, imploring eye, with upward gaze,</l>
                <l>Reſts on high Heaven, and mingles grief with praiſe—</l>
                <l>—Thus ſome fair youth, whom cruel avarice dooms,</l>
                <l>Mid the hard priſon's ſolitary glooms,</l>
@@ -787,7 +790,7 @@
                <l>There the grey hut, whoſe crumbling roof diſplays</l>
                <l>The neſted bird, cold ſhower, or ſolar rays,</l>
                <l>
-                  <pb n="32" facs="tcp:035844_0031_1006E90CD4F449D0"/>Extends its ſhaggy ſides, and ſhelving form,</l>
+                  <pb n="32" facs="unknown:035844_0031_1006E90CD4F449D0"/>Extends its ſhaggy ſides, and ſhelving form,</l>
                <l>To meet the tottering gale, and breaking ſtorm,</l>
                <l>There, on his bed of ſtraw ſupinely thrown,</l>
                <l>The ſinking <hi>Ackland</hi> breathes his feeble moan,</l>
@@ -810,7 +813,7 @@
                <l>Then, gently bending o'er the drowſy pain,</l>
                <l>Pours the low warble of a ſeraph's ſtrain,</l>
                <l>
-                  <pb n="33" facs="tcp:035844_0032_1006E90E71D83548"/>Whoſe ſoften'd notes invoke the <hi>poppy'd power,</hi>
+                  <pb n="33" facs="unknown:035844_0032_1006E90E71D83548"/>Whoſe ſoften'd notes invoke the <hi>poppy'd power,</hi>
                </l>
                <l>Coy charmer of the pain-encircled bower—</l>
                <l>—Thus in the ſtormy centre of the wood,</l>
@@ -834,7 +837,7 @@
                <l>That form, in eaſe and titled ſplendor bred,</l>
                <l>On the hard ground its nightly pillow ſpread,</l>
                <l>
-                  <pb n="34" facs="tcp:035844_0033_1006E91534C6D188"/>Shared the cold morſel with ſubmiſſive cheer,</l>
+                  <pb n="34" facs="unknown:035844_0033_1006E91534C6D188"/>Shared the cold morſel with ſubmiſſive cheer,</l>
                <l>And ſmiled contentment through a lucid tear.—</l>
                <l>Thine was the triumph, LOVE, whoſe charms pervade</l>
                <l>
@@ -860,7 +863,7 @@
                <l>His plumy helm impatient <hi>Ackland</hi> rears,</l>
                <l>And the loud drum with beating boſom hears,</l>
                <l>
-                  <pb n="35" facs="tcp:035844_0034_1006E91BFA60EA70"/>Through his thrill'd nerves the tepid currents flow,</l>
+                  <pb n="35" facs="unknown:035844_0034_1006E91BFA60EA70"/>Through his thrill'd nerves the tepid currents flow,</l>
                <l>And on his lip hygean roſes blow,</l>
                <l>To his dark eye the humid tint returns,</l>
                <l>Whoſe heavenly ray with ſhaded ſoftneſs burns,</l>
@@ -883,7 +886,7 @@
                <l>This life is thine, while in its throbbing veins</l>
                <l>The feeling nerve, and generous heat, remains.—</l>
                <l>
-                  <pb facs="tcp:035844_0035_1006E9215BDB68A0"/>—Thus, when in war's red arms <hi>Aeneas</hi> lay,</l>
+                  <pb facs="unknown:035844_0035_1006E9215BDB68A0"/>—Thus, when in war's red arms <hi>Aeneas</hi> lay,</l>
                <l>And ſeem'd to breathe his heaving ſoul away,</l>
                <l>Before his view the ſea-ſprung <hi>Venus</hi> ſtood,</l>
                <l>And ſwathed with heavenly hand the clotted blood,</l>
@@ -902,7 +905,7 @@
             </lg>
          </div>
          <div type="notes">
-            <pb facs="tcp:035844_0036_1006E924D41FCF48"/>
+            <pb facs="unknown:035844_0036_1006E924D41FCF48"/>
             <head>NOTES.</head>
             <div type="note">
                <head>NOTE a. Page 5. How <hi>Arria</hi> lived, and <hi>Laodonia</hi> fell.</head>
@@ -940,7 +943,7 @@
                <p>GENERAL <hi>Burgoyne</hi> ruſhed into the thickeſt of the battle, every where ſeeking death, yet ſtill unwounded. Gord. Hiſt.</p>
             </div>
             <div type="note">
-               <pb facs="tcp:035844_0037_1006E929A82849E8"/>
+               <pb facs="unknown:035844_0037_1006E929A82849E8"/>
                <head>NOTE g. Page 22. A graceful form in calm complaiſance roſe.</head>
                <p>THE Rev. Mr. <hi>Brudenell,</hi> who accompanied Lady <hi>Harriet,</hi> bearing a flag of truce from General <hi>Burgoyne</hi> to General <hi>Gates.</hi>
                </p>
@@ -956,7 +959,7 @@
             </div>
          </div>
          <div type="poem">
-            <pb facs="tcp:035844_0038_1006E932AE1CCF40"/>
+            <pb facs="unknown:035844_0038_1006E932AE1CCF40"/>
             <head>To Time.</head>
             <lg>
                <l>POWER of the ſweeping wing,</l>
@@ -981,7 +984,7 @@
                </l>
                <l>And a <hi>wall'd acre</hi> awes the ſubject world.</l>
                <l>
-                  <pb n="40" facs="tcp:035844_0039_1006E9345A9B62D8"/>Thy taliſman could Egypt's pillars bow,</l>
+                  <pb n="40" facs="unknown:035844_0039_1006E9345A9B62D8"/>Thy taliſman could Egypt's pillars bow,</l>
                <l>From their broad baſe her pyramids ſhall throw,</l>
                <l>While all her faded laurels ſhade thy brow.</l>
             </lg>
@@ -1003,7 +1006,7 @@
                <l>Where great <hi>Seſoſtris</hi> 
                   <note n="3" place="bottom">In all the countries ſubdued by this wonderful hero, he erected pillars or ſtatues with the following inſcription, "I Seſoſtris, king of kings, and lord of lords, ſubdued this country by the power of my arms." And no conqueror ever had ſo many monuments of his victories and greatneſs.</note> rears his trophied buſt,</l>
                <l>
-                  <pb n="41" facs="tcp:035844_0040_1006E93937886A58"/>A worthleſs pageant and an empty name,</l>
+                  <pb n="41" facs="unknown:035844_0040_1006E93937886A58"/>A worthleſs pageant and an empty name,</l>
                <l>While the barbarian Turks her meads deflower,</l>
                <l>And the wild Arab mocks her murder'd power,</l>
                <l>Aſſiſting thee to blaſt her fading fame;</l>
@@ -1033,7 +1036,7 @@
                <l>Bid thy frail vaſſals laſh the angry air,</l>
                <l>While thy deluſive moments flow!</l>
                <l>
-                  <pb n="42" facs="tcp:035844_0041_1006E93AC45763A0"/>And the great Conqueror arreſts thy care,</l>
+                  <pb n="42" facs="unknown:035844_0041_1006E93AC45763A0"/>And the great Conqueror arreſts thy care,</l>
                <l>Nor will his lifted ſcythe thoſe vaunted glories ſpare.</l>
             </lg>
             <lg>
@@ -1057,7 +1060,7 @@
                <l>DECIDED PATRIOT! Time for thee prepares</l>
                <l>A crown, uncanker'd by the ruſt of years,</l>
                <l>
-                  <pb n="43" facs="tcp:035844_0042_1006E942A6A65D08"/>Halo'd with ſtars, whoſe varying rays entwine,</l>
+                  <pb n="43" facs="unknown:035844_0042_1006E942A6A65D08"/>Halo'd with ſtars, whoſe varying rays entwine,</l>
                <l>The gift is GLORY, and the grace is thine.—</l>
                <l>—While withering millions on <hi>Europa</hi>'s ſhore</l>
                <l>Gaze on thy rights and all their wrongs deplore,</l>
@@ -1080,7 +1083,7 @@
                <l>With Adulation bending low,</l>
                <l>And ſmoothing o'er thy furrow'd brow;</l>
                <l>
-                  <pb n="44" facs="tcp:035844_0043_1006E94466D27230"/>While <hi>ſenſeleſs</hi> Age with bleachen'd hairs,</l>
+                  <pb n="44" facs="unknown:035844_0043_1006E94466D27230"/>While <hi>ſenſeleſs</hi> Age with bleachen'd hairs,</l>
                <l>Demands a lengthen'd leaſe of years,</l>
                <l>From thee, fluſh'd Hectic looks for health,</l>
                <l>From thee, pale Avarice graſps at wealth,</l>
@@ -1103,7 +1106,7 @@
                <l>Since from her life-conſoling power</l>
                <l>Aſcends each wiſh'd reward;</l>
                <l>
-                  <pb n="45" facs="tcp:035844_0044_1006E9493A46D6A8"/>But yet thy ſharpeſt ſcythe diſplay,</l>
+                  <pb n="45" facs="unknown:035844_0044_1006E9493A46D6A8"/>But yet thy ſharpeſt ſcythe diſplay,</l>
                <l>To ſweep this ſhadowy form away,</l>
                <l>Ere from this cheek you chaſe the tear,</l>
                <l>And cloſe the portals of this ear,</l>
@@ -1126,7 +1129,7 @@
                <l>There oft ſhall Friendſhip's graceful form be found,</l>
                <l>Heaving from breaſt of down the ſacred ſigh,</l>
                <l>
-                  <pb n="46" facs="tcp:035844_0045_1006E94CD7400E90"/>And fondly ſpelling but the piteous tale;</l>
+                  <pb n="46" facs="unknown:035844_0045_1006E94CD7400E90"/>And fondly ſpelling but the piteous tale;</l>
                <l>There ſhall chaſte Love his hopeleſs woes bewail,</l>
                <l>On the cold marble nail his burning eye,</l>
                <l>And wear with pilgrim knee the inſenſate ground.</l>
